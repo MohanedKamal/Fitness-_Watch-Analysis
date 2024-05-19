@@ -1,2 +1,2 @@
-# Fitness-_Watch-Analysis
+# Fitness_Watch-Analysis
 Fitness Watch Data Analysis is vital for health and wellness businesses. It involves collecting accurate data from wearable devices, conducting exploratory data analysis (EDA), deriving meaningful features, and crafting visualizations for clear communication. By segmenting user activity and analyzing performance metrics, businesses can offer personalized solutions and contribute to enhancing overall health and well-being.
